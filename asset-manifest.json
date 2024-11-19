@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/Portofolio-New/static/css/main.1792ec19.css",
+    "main.js": "/Portofolio-New/static/js/main.2786935d.js",
+    "static/media/madara2.jpg": "/Portofolio-New/static/media/madara2.1bb31e054827c79b8e3d.jpg",
+    "static/media/Foto.png": "/Portofolio-New/static/media/Foto.37af030bc18814af364b.png",
+    "static/media/liebert.png": "/Portofolio-New/static/media/liebert.e116e9df50f0a5407e4a.png",
+    "static/media/lembang.jpg": "/Portofolio-New/static/media/lembang.10768758884f53fe837b.jpg",
+    "static/media/blender.png": "/Portofolio-New/static/media/blender.51a19d54779a757fe213.png",
+    "static/media/palembang.jpg": "/Portofolio-New/static/media/palembang.1ee1ca4ab29c5dc39e59.jpg",
+    "static/media/surabaya.jpg": "/Portofolio-New/static/media/surabaya.682c5435e33ae6676b12.jpg",
+    "static/media/Game.png": "/Portofolio-New/static/media/Game.ad3d9c015e80c0f5baeb.png",
+    "static/media/padang.jpeg": "/Portofolio-New/static/media/padang.9bd893f56a1f8442c1c4.jpeg",
+    "static/media/logo.png": "/Portofolio-New/static/media/logo.14587cd6ddfeab48bea7.png",
+    "static/media/react.png": "/Portofolio-New/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/node.png": "/Portofolio-New/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/prediksi.png": "/Portofolio-New/static/media/prediksi.d109745c07d7069676a3.png",
+    "static/media/c.png": "/Portofolio-New/static/media/c.83dfa097dfa94f707a41.png",
+    "static/media/html.png": "/Portofolio-New/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/Gombal.png": "/Portofolio-New/static/media/Gombal.289f0afa18ad7482286a.png",
+    "static/media/css.png": "/Portofolio-New/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/DD.png": "/Portofolio-New/static/media/DD.5e3520d80652b9adbbc4.png",
+    "static/media/javascript.png": "/Portofolio-New/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/Portofolio-New/index.html",
+    "main.1792ec19.css.map": "/Portofolio-New/static/css/main.1792ec19.css.map",
+    "main.2786935d.js.map": "/Portofolio-New/static/js/main.2786935d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1792ec19.css",
+    "static/js/main.2786935d.js"
+  ]
+}
