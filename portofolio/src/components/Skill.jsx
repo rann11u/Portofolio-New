@@ -12,7 +12,7 @@ import C from '../assests/c.png';
 
 const skill = () => {
   return (
-    <div name='Skill' className='w-full h-screen bg-[#EEEEEE] text-black'>
+    <div name='skill' className='w-full h-screen bg-[#EEEEEE] text-black'>
         {/* Container */}
         <div className='max-w-screen-lg mx-auto p-4 flex flex-col justify-center w-full h-full'>
             <div>
